@@ -1,0 +1,74 @@
+*{
+    margin: 1;
+    padding: 1;
+}
+
+
+header{
+    background-color: salmon;
+    height:  200px;
+}
+main{
+    background-color: aquamarine;
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+ 
+aside{
+    background-color: blanchedalmond;
+    color:black;
+}
+
+
+#foto {
+    border-radius: 50px;
+    margin-top: 35px;
+    margin-right: 55px;
+    margin-bottom: 25px;
+}
+
+p {
+    color: rgb(104, 32, 238);
+    width: 300px;
+}
+
+/**
+Esto es un comentario dentro de un documento de CSS
+*/
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 26px;
+    padding: 2px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-weight: bold;
+    color: rgb(10, 0, 0);
+}
+
+footer{
+    background-color: salmon;
+    height:  50px;  
+}
+
+#Impresion{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 70px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 350px;
+    padding-right: 350px;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+}
